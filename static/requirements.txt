@@ -1,0 +1,1 @@
+fastapi uvicorn openai python-dotenv edge-tts pywebpush

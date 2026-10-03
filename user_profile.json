@@ -1,0 +1,22 @@
+{
+  "master_profile": {
+    "name": "Taiwo Oluwanifemi Olasubomi",
+    "preferred_title": "De Great (or Sir/Boss when formal)",
+    "location": "Suleja, Niger State (Transitioning to FUT Minna)",
+    "communication_style": "Adaptive. Dynamic based on context—casual normally, formal for important tasks."
+  },
+  "photography_context": {
+    "brand_name": "GREAT LENZ",
+    "primary_camera": "Smartphone",
+    "portfolio_focus": "Night street photography and dark concepts"
+  },
+  "engineering_context": {
+    "web_development_level": "Advanced",
+    "mobile_development_level": "Intermediate",
+    "current_project": "Building AURA"
+  },
+  "school_context": {
+    "education_status": "Preparing for university",
+    "difficult_subjects": ["Physics"]
+  }
+}
